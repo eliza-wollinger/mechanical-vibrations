@@ -1,4 +1,4 @@
-clear all
+clear all 
 clc
 
 db_ref = 1e-6;

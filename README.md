@@ -2,6 +2,13 @@
 
 Welcome to the Mechanical Vibration Analysis repository! This repository contains a collection of Python and MATLAB scripts designed for analyzing mechanical vibrations.
 
+### Table of Contents
+1. [Script 1](https://github.com/eliza-wollinger/mechanical-vibrations/edit/main/README.md#script-1-harmonic-excitation-models-): Harmonic Excitation Models
+2. [Script 2](https://github.com/eliza-wollinger/mechanical-vibrations/edit/main/README.md#script-2-frequency-response-function--linear-bode-diagram-%EF%B8%8F): Frequency Response Function
+3. [Script 3](https://github.com/eliza-wollinger/mechanical-vibrations/edit/main/README.md#script-3-one-degree-freedom-system-response-): One Degree Freedom System Response
+4. [Script 4](https://github.com/eliza-wollinger/mechanical-vibrations/edit/main/README.md#script-4-periodic-excitation-response-): Periodic Excitation Response
+5. [Script 5](https://github.com/eliza-wollinger/mechanical-vibrations/edit/main/README.md#script-5-fourier-series-): Fourier Series
+
 ## Script 1: Harmonic Excitation Models 🎵
 
 This script provides a simple yet powerful tool for analyzing harmonic excitation models. By utilizing the capabilities of NumPy and Matplotlib in Python, it explores various aspects of harmonic vibrations, including amplitude, frequency, and phase angle.
